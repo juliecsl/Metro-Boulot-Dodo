@@ -33,4 +33,4 @@ Vous devriez arriver à Porte d'Italie dans 0h 23min 43s
 
 
 ## Problème
-Le temps indiquer par l'interface graphique reste très théorique, car les temps de changement à pieds entre 2 stations ne sont pas pris en compte.
+Le temps indiqué par l'interface graphique reste très théorique, car les temps de changement à pieds entre 2 stations ne sont pas pris en compte.
