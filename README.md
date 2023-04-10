@@ -18,7 +18,7 @@ Les fichiers .py doivent etre exécuter via un interpréteur Python de type VSCO
 
 ### Utilisation de chemin.py
 Exécutez le programme, un onglet représentant l'interface graphique s'ouvre
-* sélélectionnez votre sation de départ
+* sélectionnez votre sation de départ
 * puis votre station d'arrivée
 * cliquez sur "trouver itinéraire"
 * le résultat s'affiche alors
