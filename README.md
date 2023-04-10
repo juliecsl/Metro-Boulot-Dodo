@@ -1,5 +1,5 @@
 # Metro-Boulot-Dodo
-Julie CIESLA , Elise R., Emma L.P.
+*Réalisé par: Julie CIESLA , Elise R., Emma L.P.*
 
 ## Présentation du projet
 Ecriture d'un programme permettant de déterminer le plus court itinéraire pour aller d'une station de métro Parisienne à une autre selon le réseau de la RATP.
